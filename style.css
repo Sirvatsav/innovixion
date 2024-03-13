@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  #timer {
+   position: absolute;
+    font-size: 25px;
+    position: absolute;
+    top: 50%;
+    left: 30%;
+    padding: 50px;
+    background:linear-gradient(to left top,black,green);
+    border-radius: 20px;
+
+  }
+  input[type="datetime-local"] {
+    font-size: 18px;
+    padding: 5px;
+  }
+  button {
+    background: transparent;
+    font-size: 18px;
+    padding: 10px 20px;
+    margin-top: 10px;
+    cursor: pointer;
+    border-radius: 10px;
+    color: white;
+  }
+  header{
+    background: black;
+    color: aliceblue;
+  }
+  label{
+    color: aliceblue;
+  }
